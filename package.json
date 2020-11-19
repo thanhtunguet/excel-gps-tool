@@ -2,6 +2,7 @@
   "name": "gmaps-coordinate-filler",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://thanhtunguet.info/gmaps-coordinate-filler",
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^3.1.13",
     "@testing-library/jest-dom": "^5.11.4",
