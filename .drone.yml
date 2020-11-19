@@ -1,0 +1,12 @@
+---
+kind: pipeline
+type: docker
+name: default
+
+steps:
+- name: test
+    image: node:13.10
+    commands:
+    - yarn install
+    - yarn build
+    
