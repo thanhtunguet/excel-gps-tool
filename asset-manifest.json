@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/static/js/main.f044f936.chunk.js",
-    "main.js.map": "/static/js/main.f044f936.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ca6732da.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ca6732da.js.map",
-    "static/css/2.d2004c91.chunk.css": "/static/css/2.d2004c91.chunk.css",
-    "static/js/2.46cbe963.chunk.js": "/static/js/2.46cbe963.chunk.js",
-    "static/js/2.46cbe963.chunk.js.map": "/static/js/2.46cbe963.chunk.js.map",
-    "static/js/3.2151e1ec.chunk.js": "/static/js/3.2151e1ec.chunk.js",
-    "static/js/3.2151e1ec.chunk.js.map": "/static/js/3.2151e1ec.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.d2004c91.chunk.css.map": "/static/css/2.d2004c91.chunk.css.map",
-    "static/css/main.ab7136cd.chunk.css.map": "/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.46cbe963.chunk.js.LICENSE.txt": "/static/js/2.46cbe963.chunk.js.LICENSE.txt"
+    "main.css": "/gmaps-coordinate-filler/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/gmaps-coordinate-filler/static/js/main.f044f936.chunk.js",
+    "main.js.map": "/gmaps-coordinate-filler/static/js/main.f044f936.chunk.js.map",
+    "runtime-main.js": "/gmaps-coordinate-filler/static/js/runtime-main.288cbc99.js",
+    "runtime-main.js.map": "/gmaps-coordinate-filler/static/js/runtime-main.288cbc99.js.map",
+    "static/css/2.d2004c91.chunk.css": "/gmaps-coordinate-filler/static/css/2.d2004c91.chunk.css",
+    "static/js/2.d8a7f849.chunk.js": "/gmaps-coordinate-filler/static/js/2.d8a7f849.chunk.js",
+    "static/js/2.d8a7f849.chunk.js.map": "/gmaps-coordinate-filler/static/js/2.d8a7f849.chunk.js.map",
+    "static/js/3.2151e1ec.chunk.js": "/gmaps-coordinate-filler/static/js/3.2151e1ec.chunk.js",
+    "static/js/3.2151e1ec.chunk.js.map": "/gmaps-coordinate-filler/static/js/3.2151e1ec.chunk.js.map",
+    "index.html": "/gmaps-coordinate-filler/index.html",
+    "static/css/2.d2004c91.chunk.css.map": "/gmaps-coordinate-filler/static/css/2.d2004c91.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/gmaps-coordinate-filler/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.d8a7f849.chunk.js.LICENSE.txt": "/gmaps-coordinate-filler/static/js/2.d8a7f849.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca6732da.js",
+    "static/js/runtime-main.288cbc99.js",
     "static/css/2.d2004c91.chunk.css",
-    "static/js/2.46cbe963.chunk.js",
+    "static/js/2.d8a7f849.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.f044f936.chunk.js"
   ]
