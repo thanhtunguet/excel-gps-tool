@@ -4,9 +4,9 @@ type: docker
 name: default
 
 steps:
-- name: test
+  - name: test
     image: node:13.10
     commands:
-    - yarn install
-    - yarn build
+      - yarn install
+      - yarn build
     
