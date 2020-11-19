@@ -158,12 +158,14 @@ function App() {
 
   const handleExport = React.useCallback(() => {
     if (!loading) {
-      entries.forEach((record: Record) => {
-        const {row} = parseCellAddress(record.no);
-        workbook.Sheets.addresses[`C${row}`] = record.latitude;
-        workbook.Sheets.addresses[`D${row}`] = record.longitude;
-      });
-      XLSX.writeFile(workbook, 'result.xlsx');
+      if (workbook) {
+        entries.forEach((record: Record) => {
+          const {row} = parseCellAddress(record.no);
+          workbook.Sheets.addresses[`C${row}`] = record.latitude;
+          workbook.Sheets.addresses[`D${row}`] = record.longitude;
+        });
+        XLSX.writeFile(workbook, 'result.xlsx');
+      }
     }
   }, [workbook, loading, entries]);
 
