@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gmaps-coordinate-filler/static/css/main.afd7172b.chunk.css",
-    "main.js": "/gmaps-coordinate-filler/static/js/main.3d69cb04.chunk.js",
-    "main.js.map": "/gmaps-coordinate-filler/static/js/main.3d69cb04.chunk.js.map",
-    "runtime-main.js": "/gmaps-coordinate-filler/static/js/runtime-main.006c912f.js",
-    "runtime-main.js.map": "/gmaps-coordinate-filler/static/js/runtime-main.006c912f.js.map",
-    "static/css/2.a7a66475.chunk.css": "/gmaps-coordinate-filler/static/css/2.a7a66475.chunk.css",
-    "static/js/2.837f03ed.chunk.js": "/gmaps-coordinate-filler/static/js/2.837f03ed.chunk.js",
-    "static/js/2.837f03ed.chunk.js.map": "/gmaps-coordinate-filler/static/js/2.837f03ed.chunk.js.map",
-    "static/js/3.0806f682.chunk.js": "/gmaps-coordinate-filler/static/js/3.0806f682.chunk.js",
-    "static/js/3.0806f682.chunk.js.map": "/gmaps-coordinate-filler/static/js/3.0806f682.chunk.js.map",
-    "index.html": "/gmaps-coordinate-filler/index.html",
-    "static/css/2.a7a66475.chunk.css.map": "/gmaps-coordinate-filler/static/css/2.a7a66475.chunk.css.map",
-    "static/css/main.afd7172b.chunk.css.map": "/gmaps-coordinate-filler/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.837f03ed.chunk.js.LICENSE.txt": "/gmaps-coordinate-filler/static/js/2.837f03ed.chunk.js.LICENSE.txt"
+    "main.css": "/excel-gps-tool/static/css/main.afd7172b.chunk.css",
+    "main.js": "/excel-gps-tool/static/js/main.61752220.chunk.js",
+    "main.js.map": "/excel-gps-tool/static/js/main.61752220.chunk.js.map",
+    "runtime-main.js": "/excel-gps-tool/static/js/runtime-main.2bd4e0c5.js",
+    "runtime-main.js.map": "/excel-gps-tool/static/js/runtime-main.2bd4e0c5.js.map",
+    "static/css/2.a7a66475.chunk.css": "/excel-gps-tool/static/css/2.a7a66475.chunk.css",
+    "static/js/2.47dd038d.chunk.js": "/excel-gps-tool/static/js/2.47dd038d.chunk.js",
+    "static/js/2.47dd038d.chunk.js.map": "/excel-gps-tool/static/js/2.47dd038d.chunk.js.map",
+    "static/js/3.0806f682.chunk.js": "/excel-gps-tool/static/js/3.0806f682.chunk.js",
+    "static/js/3.0806f682.chunk.js.map": "/excel-gps-tool/static/js/3.0806f682.chunk.js.map",
+    "index.html": "/excel-gps-tool/index.html",
+    "static/css/2.a7a66475.chunk.css.map": "/excel-gps-tool/static/css/2.a7a66475.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/excel-gps-tool/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.47dd038d.chunk.js.LICENSE.txt": "/excel-gps-tool/static/js/2.47dd038d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.006c912f.js",
+    "static/js/runtime-main.2bd4e0c5.js",
     "static/css/2.a7a66475.chunk.css",
-    "static/js/2.837f03ed.chunk.js",
+    "static/js/2.47dd038d.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.3d69cb04.chunk.js"
+    "static/js/main.61752220.chunk.js"
   ]
 }
