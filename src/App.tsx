@@ -30,7 +30,7 @@ function App() {
   const [handleDownloadTemplate] = excelService.useTemplate();
 
   return (
-    <Card title="GMaps Coordinate Filler" className="p-1">
+    <Card title="Excel GPS Tool" className="p-1">
       <Form {...layout}>
         <FormItem label="APP_ID">
           <Input
