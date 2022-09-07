@@ -2,7 +2,7 @@
   "name": "gmaps-coordinate-filler",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thanhtunguet.info/gmaps-coordinate-filler",
+  "homepage": "https://thanhtunguet.info/excel-gps-tool",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
